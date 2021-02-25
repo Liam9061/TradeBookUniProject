@@ -1,2 +1,2 @@
 # TradeBookUniProject
-University project by Ashly and Liam
+University project by Ashley and Liam
